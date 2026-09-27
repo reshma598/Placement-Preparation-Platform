@@ -123,6 +123,35 @@ Contributions and suggestions are welcome.
 4. Test the changes.
 5. Submit a pull request.
 
+## 📸 Project Screenshots
+
+### 🏠 Platform Landing Page
+<img width="1600" height="957" alt="image" src="https://github.com/user-attachments/assets/64fc5009-b258-4df1-ad4e-dd2539d07a1c" />
+
+### 💻 Coding & DSA Practice
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/a46166df-9ed9-40f1-959d-215fe9097d51" />
+
+### 📄 Resume Preparation & ATS Analysis
+<img width="1600" height="891" alt="image" src="https://github.com/user-attachments/assets/026d2de9-e4dd-4233-930d-51a58e44e884" />
+
+### 🗣️ Technical & HR Interview Preparation
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/44d91664-83ed-460c-96e0-2b1cde405e9f" />
+
+### 🏢 Company-Specific Placement Preparation
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/2cd5ea91-b5df-4fab-8088-fbae19507847" />
+
+### 🧮 Aptitude & Logical Reasoning Practice
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/b83cd411-6b91-40aa-b80b-08cb32895ec0" />
+
+### 🤖 AI-Powered Personalized Study Coach
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/d0328d1e-1990-42c4-a195-99fb761e91dc" />
+
+### 👥 Community & Leaderboard
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/12f34e05-1951-4269-a40e-4fef26dea7bc" />
+
 ## 📄 License
 
 This project is developed for **educational and learning purposes**.
+
+AUTHOR:
+PATAMSETTI RESHMA
